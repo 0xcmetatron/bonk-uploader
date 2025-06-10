@@ -161,7 +161,7 @@ export default function HomePage() {
       {/* Footer */}
       <footer className="py-8 bg-black/20 backdrop-blur-sm">
         <div className="container mx-auto px-4 text-center">
-          <p className="text-orange-100">© 2024 BonkUpload. Powered by Bonk Community.</p>
+          <p className="text-orange-100">© 2025 BonkUpload.</p>
         </div>
       </footer>
     </div>
