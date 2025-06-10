@@ -38,7 +38,7 @@ export default function RootLayout({
     <html lang="en">
       <head>
         {/* Enlaza el ícono de la aplicación */}
-        <link rel="icon" href="/logo.png" />
+        <link rel="icon" href="/logo-bonkupload.png" />
       </head>
       <body>{children}</body>
     </html>
