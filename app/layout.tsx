@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     siteName: 'BonkUpload',
     images: [
       {
-        url: '/logo.png', // Ruta relativa al ícono
+        url: '/logo-bonkupload.png', // Ruta relativa al ícono
         width: 1200,
         height: 630,
         alt: 'BonkUpload Logo',
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'BonkUpload',
     description: 'The official Bonk app to upload, download, and share files — fast and simple.',
-    images: ['/logo.png'], // Ruta relativa al ícono
+    images: ['/logo-bonkupload.png'], // Ruta relativa al ícono
   },
 };
 
